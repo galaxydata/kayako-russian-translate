@@ -66,7 +66,7 @@ $__LANG = array (
 	 * ###############################################
 	 */
 	'widgetregister' => 'Register',
-	'widgethome' => 'Home',
+	'widgethome' => 'Домой',
 	'widgetknowledgebase' => 'Knowledgebase',
 	'widgetnews' => 'News',
 	'widgetsubmitticket' => 'Submit a Ticket',
