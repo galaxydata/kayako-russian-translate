@@ -17,7 +17,7 @@
 
 $__LANG = array (
 	// Potentialy unused phrases in knowledgebase.php
-	'knowledgebase' => 'Knowledgebase',
+	'knowledgebase' => 'База знаний',
 	'managecategories' => 'Manage Categories',
 	'managequestions' => 'Manage Articles',
 	'insertcategory' => 'Insert Category',

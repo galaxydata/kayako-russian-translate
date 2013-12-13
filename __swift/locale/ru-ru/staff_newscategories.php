@@ -16,7 +16,7 @@
  */
 
 $__LANG = array(
-	'news' => 'News',
+	'news' => 'Новости',
 	'categories' => 'Categories',
 	'categorytitle' => 'Category name',
 	'desc_categorytitle' => 'Enter a name for this category.',

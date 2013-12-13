@@ -64,7 +64,7 @@ $__LANG = array(
 	'parserlooprule'                     => 'Email loop blocker rules',
 
 	// Staff/Knowledgebase
-	'mod_knowledgebase'                  => 'Knowledgebase',
+	'mod_knowledgebase'                  => 'База знаний',
 	'kb_entab'                           => 'Access the knowledgebase area of the staff control panel',
 	'staff_kbcategories'                 => 'Knowledgebase categories',
 	'staff_kbarticles'                   => 'Knowledgebase articles',

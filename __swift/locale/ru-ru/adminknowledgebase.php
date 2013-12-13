@@ -16,7 +16,7 @@
  */
 
 $__LANG = array (
-	'knowledgebase' => 'Knowledgebase',
+	'knowledgebase' => 'База знаний',
 	'kbsettings' => 'Settings',
 	'desc_kbsettings' => '',
 	'tabsettings' => 'Settings',

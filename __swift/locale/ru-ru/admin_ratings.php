@@ -77,7 +77,7 @@ $__LANG = array (
 	'msgratingupdate' => 'The rating (%s) was updated successfully.',
 	
 	// Potentialy unused phrases in admin_ratings.php
-	'ratingknowledgebase' => 'Knowledgebase',
+	'ratingknowledgebase' => 'База знаний',
 	'ratingtroubleshooter' => 'Troubleshooter',
 	'ratingnews' => 'News',
 );

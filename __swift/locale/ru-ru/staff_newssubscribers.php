@@ -16,7 +16,7 @@
  */
 
 $__LANG = array(
-	'news' => 'News',
+	'news' => 'Новости',
 	'subscribers' => 'Subscribers',
 	'creationdate' => 'Creation Date',
 	'subscriberemail' => 'Email Address',

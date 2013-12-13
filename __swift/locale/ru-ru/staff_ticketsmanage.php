@@ -162,7 +162,7 @@ $__LANG = array(
 	'dispatchbcc'                     => 'BCC',
 	'dispatchcontents'                => 'Reply Contents',
 	'dispatchaddmacro'                => 'Macro',
-	'dispatchaddkb'                   => 'Knowledgebase',
+	'dispatchaddkb'                   => 'База знаний',
 	'dispatchsendmail'                => 'Send email',
 	'dispatchprivate'                 => 'Private reply',
 	'dispatchwatch'                   => 'Watch ticket',
@@ -318,7 +318,7 @@ $__LANG = array(
 	'msgdelmacroreply'                => 'The following macros were deleted:',
 	'quickinsert'                     => 'Quick Insert',
 	'qimacro'                         => 'Macro',
-	'qiknowledgebase'                 => 'Knowledgebase',
+	'qiknowledgebase'                 => 'База знаний',
 	'replytotalhits'                  => 'Hits',
 	'replylastused'                   => 'Last used',
 

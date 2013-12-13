@@ -18,7 +18,7 @@
 $__LANG = array (
 	// ======= BEGIN v4 LOCALES =======
 	'tabkbindex' => 'Rebuild knowledgebase search index',
-	'knowledgebase' => 'Knowledgebase',
+	'knowledgebase' => 'База знаний',
 	'maintenance' => 'Maintenance',
 	'rebuild' => 'Rebuild',
 	'articlesperpass' => 'Articles to index in one batch',

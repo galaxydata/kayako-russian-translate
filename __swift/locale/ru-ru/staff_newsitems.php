@@ -16,7 +16,7 @@
  */
 
 $__LANG = array(
-	'news' => 'News',
+	'news' => 'Новости',
 	'insertnews' => 'Insert News',
 	'tabgeneral' => 'General',
 	'manage' => 'Manage',

@@ -16,7 +16,7 @@
  */
 
 $__LANG = array(
-	'knowledgebase' => 'Knowledgebase',
+	'knowledgebase' => 'База знаний',
 	'categories' => 'Categories',
 	'insertcategory' => 'Insert Category',
 	'insertarticle' => 'New Article',

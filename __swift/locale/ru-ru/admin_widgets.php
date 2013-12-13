@@ -67,8 +67,8 @@ $__LANG = array (
 	 */
 	'widgetregister' => 'Register',
 	'widgethome' => 'Домой',
-	'widgetknowledgebase' => 'Knowledgebase',
-	'widgetnews' => 'News',
+	'widgetknowledgebase' => 'База знаний',
+	'widgetnews' => 'Новости',
 	'widgetsubmitticket' => 'Submit a Ticket',
 	'widgetviewtickets' => 'My Tickets',
 	'widgettroubleshooter' => 'Troubleshooter',

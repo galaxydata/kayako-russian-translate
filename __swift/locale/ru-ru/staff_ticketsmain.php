@@ -16,9 +16,9 @@
  */
 
 $__LANG = array(
-	'tickets' => 'Заявки',
+	'tickets' => 'Обращения',
 	'overdue' => 'Просрочена',
-	'unassigned' => '-- Unassigned --',
+	'unassigned' => '-- Не назначено --',
 	'unassigned2' => 'Unassigned',
 	'menuviews' => 'View: %s',
 	'merge' => 'Слить',
@@ -40,11 +40,11 @@ $__LANG = array(
 	'treetrash' => 'Корзина',
 	'treewatched' => 'Watched',
 	'treeflagged' => 'Flagged',
-	'treemytickets' => 'Мои заявки',
+	'treemytickets' => 'Мои обращения',
 	'treeunassigned' => 'Не назначено',
 
 	// Grid Titles
-	'f_ticketid' => 'Заявка №',
+	'f_ticketid' => 'Обращение №',
 	'f_subject' => 'Тема',
 	'f_queue' => 'Email Queue',
 	'f_department' => 'Department',
@@ -82,7 +82,7 @@ $__LANG = array(
 
 	// Ticket listing icon description tags
 	'alt_hasattachments' => 'Has attachments',
-	'alt_isescalated' => 'Эта заявка была просрочена и была повышена в статусе',
+	'alt_isescalated' => 'Это обращение было просрочено и было повышено в статусе',
 	'alt_raisedbyemail' => 'Raised by email',
 	'alt_linkedticket' => 'This ticket is linked to another',
 	'alt_followupset' => 'A follow up item has been set for this ticket',
@@ -90,7 +90,7 @@ $__LANG = array(
 	'alt_watchingticket' => 'You are watching this ticket',
 	'alt_ticketlocked' => 'This ticket is being viewed by another staff',
 	'alt_ticketphonetype' => 'This ticket has been marked as a phone type ticket',
-	'alt_ticketunread' => 'С момента вашего последнего посещения заявка была обновлена',
+	'alt_ticketunread' => 'С момента вашего последнего посещения обращение было обновлено',
 	'alt_tickethastimetracking' => 'This ticket has a time tracking entry',
 	'alt_tickethasnote' => 'This ticket has one or more ticket notes',
 	'alt_tickethasbilling' => 'This ticket has a time tracking and billing entry',

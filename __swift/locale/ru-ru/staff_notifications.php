@@ -28,7 +28,7 @@ $__LANG = array(
 	'creator'                        => 'Создал',
 	'wininsertnotification'          => 'Добавить уведомление',
 
-	'unassigned'                     => '-- Unassigned --',
+	'unassigned'                     => '-- Не назначено --',
 
 	'tabgeneral'                     => 'Основные',
 	'tabactions'                     => 'Actions',
@@ -100,7 +100,7 @@ $__LANG = array(
 	'desc_ndepartment'               => 'Tickets that belong to a department.',
 	'nowner'                         => 'Ticket owner',
 	'desc_nowner'                    => 'Tickets assigned to a particular staff user.',
-	'nunassigned'                    => '-- Unassigned --',
+	'nunassigned'                    => '-- Не назначено --',
 	'nactivestaff'                   => '-- Active Staff --',
 	'nemailqueue'                    => 'Email queue',
 	'desc_nemailqueue'               => 'Tickets that were created or replied to by email via a specific email queue.',
